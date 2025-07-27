@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g>
+    <!-- Brain outline (simplified, circular style) -->
+    <ellipse cx="32" cy="32" rx="28" ry="24" fill="#fff" stroke="#5C4DFF" stroke-width="4"/>
+    <!-- Letter M -->
+    <text x="32" y="44" text-anchor="middle" font-size="30" fill="#5C4DFF" font-family="Montserrat, sans-serif" font-weight="bold">M</text>
+  </g>
+</svg>
